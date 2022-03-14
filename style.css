@@ -1,10 +1,13 @@
 body{
     background-color: blanchedalmond;
     text-align: center;    
+    font-family: Arial;
+    color: deeppink;
 }
 
 div{
     border-radius: 0em;
     border-style: double;
-    border-color: blue;
+    border-color: burlywood;
+    margin: 1em;
 }
